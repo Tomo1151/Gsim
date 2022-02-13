@@ -17,7 +17,7 @@
 - OS Windows 10 21H1  
 
 ## 実行環境 (仮想マシン)
-** VirtualBox 6.1.32 r149290 (Qt5.6.2)
+* VirtualBox 6.1.32 r149290 (Qt5.6.2)
 - Intel Core i5 8500 3.0GHz
 - Memory 3.8GiB
 - gcc version 9.3.0
