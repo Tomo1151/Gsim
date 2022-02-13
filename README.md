@@ -20,7 +20,7 @@ VirtualBox 6.1.32 r149290 (Qt5.6.2)
 - OS Ubuntu 20.04.3 LTS
   
 ## 注意事項
-ソースファイルのコンパイルにはlibx11-devパッケージが必要です(ubuntu環境では`sudo apt-get install libx11-dev`でインストールできます)。
+ソースファイルのコンパイルにはlibx11-devパッケージが必要です(ubuntu環境では`sudo apt-get install libx11-dev`でインストールできます)。  
 また、X11を用いているのでコンパイルにはオプションが必要です。
 
 特別な事情が無い限り，コンパイルはこちらのコマンドで行ってください。
