@@ -14,10 +14,10 @@
 ## 実行環境 (仮想マシン)
 VirtualBox 6.1.32 r149290 (Qt5.6.2)
 ************************************
-Intel Core i5 8500 3.0GHz
-Memory 3.8GiB
-gcc version 9.3.0
-OS Ubuntu 20.04.3 LTS
+- Intel Core i5 8500 3.0GHz
+- Memory 3.8GiB
+- gcc version 9.3.0
+- OS Ubuntu 20.04.3 LTS
   
 ## 注意事項
 ソースファイルのコンパイルにはlibx11-devパッケージが必要です(ubuntu環境では`sudo apt-get install libx11-dev`でインストールできます)。
