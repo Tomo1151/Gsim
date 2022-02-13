@@ -23,5 +23,5 @@ VirtualBox 6.1.32 r149290 (Qt5.6.2)
 ソースファイルのコンパイルにはlibx11-devパッケージが必要です(ubuntu環境では`sudo apt-get install libx11-dev`でインストールできます)。  
 また、X11を用いているのでコンパイルにはオプションが必要です。
 
-特別な事情が無い限り，コンパイルはこちらのコマンドで行ってください。
+特別な事情が無い限り，コンパイルはこちらのコマンドで行ってください。  
 `cc sim.c Flib/FFont.c Flib/FillMask.c -I /usr/include/ -L /usr/lib/ -l X11 -lm`
